@@ -1,2 +1,5 @@
 .venv/
 practice
+*.env
+ai-learning/.env
+.ipynb_checkpoints
