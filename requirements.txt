@@ -10,3 +10,14 @@ jupyter-dash
 jupyterlab
 openai
 ollama
+google-generativeai
+anthropic
+gradio
+transformers
+datasets
+diffusers
+torch
+langchain
+langchain-community
+langchain_openai
+langchain_chroma
